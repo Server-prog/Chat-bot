@@ -10,20 +10,17 @@ Um chatbot moderno e inteligente construído com **Next.js**, integrado com o **
 - [Shadcn/UI](https://ui.shadcn.com/) – Biblioteca de UI acessível e moderna
 - [Tailwind CSS](https://tailwindcss.com/) – Estilização rápida e eficiente
 
-## 🧠 Funcionalidades
+## Funcionalidades
 
-- 💬 Comunicação com modelos da OpenAI (como GPT-4)
-- 🌗 Suporte a modo claro e escuro
-- 🖥️ Interface elegante com componentes da Shadcn/UI
-- ⚡ Renderização server-side e client-side com Next.js
-- ⏱️ Respostas rápidas e em tempo real
-- 📱 Interface responsiva para desktop e mobile
+- Comunicação com modelos da OpenAI (como GPT-4)
+- Suporte a modo claro e escuro
+- Interface elegante com componentes da Shadcn/UI
+- Renderização server-side e client-side com Next.js
+- Respostas rápidas e em tempo real
+- Interface responsiva para desktop e mobile
 
-## 🖼️ Preview
 
-![Chatbot UI](./public/preview.png)
-
-## 📦 Instalação
+## Instalação
 
 Clone o repositório e instale as dependências:
 
